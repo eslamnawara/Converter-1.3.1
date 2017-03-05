@@ -7,4 +7,8 @@ You can check the Screenshot.jpg or take a look at http://imgur.com/a/9xpOS to s
 
 Feel free to report any bug or development ideas.
 
-http://plume.dexode.free.fr/tools/convert/convert.html - eslam.nawara_pro@yahoo.com
+- http://plume.dexode.free.fr/tools/convert/convert.html
+
+- https://github.com/eslamnawara
+
+- Email Pro (job) = eslam.nawara_pro@yahoo.com

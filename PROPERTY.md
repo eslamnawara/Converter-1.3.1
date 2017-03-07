@@ -1,6 +1,6 @@
 # Property  :star2:
 
-The project " **Convert** " (convert my Photos into Icons) is the exclusive property of Mr **Eslam Nawara** (Lyon).
+The project " **Convert** " (convert my Photos into Icons) is the exclusive property of Mr *Eslam Nawara* (Lyon).
 
 Feel free to contact me for all right questions or requests.
 

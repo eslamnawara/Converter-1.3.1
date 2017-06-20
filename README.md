@@ -10,7 +10,7 @@ Feel free to report any bug or development ideas.
 
 Version Change = [Link](CHANGE.md)
 
-Author = Mr Eslam Magdy Mahmoud - :fr:
+Author = Mr Eslam Magdy Mahmoud
 
 ## Screenshot
 
